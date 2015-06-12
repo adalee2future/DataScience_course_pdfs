@@ -1,2 +1,2 @@
-# DataScience_course_pdfs
-Copy course pdfs from https://github.com/DataScienceSpecialization/courses and change un-linkable pdfs to linkable pdfs, and make tall text could be copied.
+# DataScience Course PDFs
+Change [Data Science](https://github.com/DataScienceSpecialization/courses) pdfs from unlinkable and uncopiable to linkable and copiable pdfs.
